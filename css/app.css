@@ -1,0 +1,51 @@
+
+
+.container {
+  max-width: 960px;
+}
+
+.featured-title {
+  padding-top: 30px;
+  padding-left: 20px;
+}
+
+.featured-title h1 {
+  color: #7d97ad;
+}
+
+.subtitle, .title {
+  text-align: right;
+}
+
+header {
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+
+.logo img {
+  max-width: 100px;
+  border-radius: 50px;
+}
+
+.title-div {
+  padding-top: 10px;
+}
+
+hr {
+  border-width: .15em;
+  border-color: #7d97ad;
+}
+
+
+h2 {
+  padding-top: 15px;
+}
+
+.hero {
+  display: inherit;
+}
+
+.featured {
+  overflow: hidden;
+}
